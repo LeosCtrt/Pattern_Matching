@@ -1,6 +1,6 @@
 # Academic project 
 
-### Luc YAO, Léos COUTROT, Richard CHEAM
+### Léos COUTROT, Richard CHEAM, Luc YAO
 
 #### Evry Paris-Saclay University
 
